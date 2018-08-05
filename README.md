@@ -1,11 +1,11 @@
-This project is about to test jekyll with github page
+This project is about to test jekyll with github page   
 _______________________________________________________________________________
 ## Hardware
-Let schema here
+Let schema here    
 _______________________________________________________________________________
 ## Firmware / Software
 
-let link to firmware
+let link to firmware   
 _______________________________________________________________________________
 ## Contact
 
